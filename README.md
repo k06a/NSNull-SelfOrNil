@@ -1,4 +1,4 @@
-# NSNull-SelfOrNil
+# NSNull+SelfOrNil
 
 [![CI Status](http://img.shields.io/travis/k06a/NSNull-SelfOrNil.svg?style=flat)](https://travis-ci.org/Anton Bukov/NSNull-SelfOrNil)
 [![Version](https://img.shields.io/cocoapods/v/NSNull-SelfOrNil.svg?style=flat)](http://cocoapods.org/pods/NSNull-SelfOrNil)
