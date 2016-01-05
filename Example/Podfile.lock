@@ -1,0 +1,14 @@
+PODS:
+  - NSNull-SelfOrNil (0.1.0)
+
+DEPENDENCIES:
+  - NSNull-SelfOrNil (from `../`)
+
+EXTERNAL SOURCES:
+  NSNull-SelfOrNil:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NSNull-SelfOrNil: 752dfea18c97444d1b1dd30fe7700760cc63a960
+
+COCOAPODS: 0.39.0
