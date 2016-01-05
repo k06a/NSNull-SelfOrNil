@@ -1,12 +1,10 @@
 //
 //  NSNull+SelfOrNil.m
-//  Pods
 //
-//  Created by Антон Буков on 05.01.16.
-//
+//  Created by Anton Bukov on 05.01.16.
 //
 
-#import "NSNull+SelfOrNil.h"
+#import <Foundation/Foundation.h>
 
 @implementation NSNull (SelfOrNil)
 

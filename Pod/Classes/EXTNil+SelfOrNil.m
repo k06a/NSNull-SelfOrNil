@@ -1,14 +1,12 @@
 //
 //  EXTNil+SelfOrNil.m
-//  Pods
 //
-//  Created by Антон Буков on 05.01.16.
-//
+//  Created by Anton Bukov on 05.01.16.
 //
 
 #if __has_include(<libextobjc/extobjc.h>)
 
-#import "EXTNil+SelfOrNil.h"
+#import <libextobjc/extobjc.h>
 
 @implementation EXTNil (SelfOrNil)
 
