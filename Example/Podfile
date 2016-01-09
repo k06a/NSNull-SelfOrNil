@@ -3,7 +3,7 @@ use_frameworks!
 
 
 target 'NSNull-SelfOrNil_Tests', :exclusive => true do
-  pod "NSNull-SelfOrNil", :path => "../"
+  pod "NSNull+SelfOrNil", :path => "../"
 
   
 end
